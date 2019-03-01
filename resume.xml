@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <resume>
 <name>Natanios Chunginos</name>
@@ -12,7 +12,7 @@
 </personal>
 
 <experience>
-<job>
+<job class="current_job">
 	<title>Chief Magic Officer at Amazing, Inc.</title>
 	<start>April 2011</start>
 	<end>Present</end>
