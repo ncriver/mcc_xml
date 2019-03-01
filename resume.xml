@@ -3,7 +3,6 @@
 <resume>
 <name>Natanios Chunginos</name>
 <position>Chief Magic Officer</position>
-
 <email>natanios@faketestsite.com</email>
 <website>www.faketestsite.com</website>
 <phone type="mobile">01234567890</phone>
@@ -12,34 +11,35 @@
 </personal>
 
 <experience>
-<job class="current_job">
-	<title>Chief Magic Officer at Amazing, Inc.</title>
-	<start>April 2011</start>
-	<end>Present</end>
-	<tasks>
-		<task>Oversees all magic-related aspect of the company.</task>
-	</tasks>
-</job>
+	<job class="current_job">
+		<title>Chief Magic Officer at Amazing, Inc.</title>
+		<start>April 2011</start>
+		<end>Present</end>
+		<tasks>
+			<task>Oversees all magic-related aspect of the company.</task>
+		</tasks>
+	</job>
 
-<job>
-	<title>Self-employed Monster Hunter</title>
-	<start>January 2007</start>
-	<end>March 2011</end>
-	<tasks>
-		<task>Hunted evil monsters with the power of magic.</task>
-		<task>Trained young hunters.</task>
-	</tasks>
-</job>
+	<job>
+		<title>Self-employed Monster Hunter</title>
+		<start>January 2007</start>
+		<end>March 2011</end>
+		<tasks>
+			<task>Hunted evil monsters with the power of magic.</task>
+			<task>Trained young hunters.</task>
+		</tasks>
+	</job>
 
-<job>
-	<title>Clerk at Zoom Magic Store</title>
-	<start>October 2004</start>
-	<end>December 2006</end>
-	<tasks>
-		<task>Sold magic items.</task>
-		<task>Gave magic tips to customers and taught magic workshops.</task>
-	</tasks>
-</job>
+	<job>
+		<title>Clerk at Zoom Magic Store</title>
+		<start>October 2004</start>
+		<end>December 2006</end>
+		<tasks>
+			<task>Sold magic items.</task>
+			<task>Gave magic tips to customers and taught magic workshops.</task>
+		</tasks>
+	</job>
+</experience>
 
 <skills>
 	<skill>Familiar conjuring</skill>
@@ -48,13 +48,13 @@
 </skills>
 
 <education>
-<institution>
-	<name>Shar College of Real Magick</name>
-	<degree>B.A. in Monster Hunting*</degree>
-	<achievements>
-		<item>Graduated cum laude.</item>
-	</achievements>
-</institution>
+	<institution>
+		<name>Shar College of Real Magick</name>
+		<degree>B.A. in Monster Hunting*</degree>
+		<achievements>
+			<item>Graduated cum laude.</item>
+		</achievements>
+	</institution>
 </education>
 
 </resume>
